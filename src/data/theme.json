@@ -1,8 +1,8 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "SHROOM SERVICE",
+  "header_title": "Shroom Service Austin",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "shroomservice@gmail.com",
   "social": [
     {
       "channel": "twitter",
@@ -13,11 +13,6 @@
       "channel": "instagram",
       "handle": "its.nwa",
       "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
     }
   ]
 }
