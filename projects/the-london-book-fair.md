@@ -1,6 +1,6 @@
 ---
-title: The London Book Fair
-thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
+title: LIONS MANE MANE
+thumbnail: "../static/uploads/plant1.jpg"
 year: "2017"
 categories:
 - Branding
